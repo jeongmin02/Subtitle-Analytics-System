@@ -1,0 +1,218 @@
+[
+    {
+        "id": 0,
+        "start_time": 0.0,
+        "end_time": 1.0,
+        "frame_name": "frame_000000.jpg"
+    },
+    {
+        "id": 1,
+        "start_time": 1.0,
+        "end_time": 2.0,
+        "frame_name": "frame_000001.jpg"
+    },
+    {
+        "id": 2,
+        "start_time": 2.0,
+        "end_time": 3.0,
+        "frame_name": "frame_000002.jpg"
+    },
+    {
+        "id": 3,
+        "start_time": 3.0,
+        "end_time": 4.0,
+        "frame_name": "frame_000003.jpg"
+    },
+    {
+        "id": 4,
+        "start_time": 4.0,
+        "end_time": 5.0,
+        "frame_name": "frame_000004.jpg"
+    },
+    {
+        "id": 5,
+        "start_time": 5.0,
+        "end_time": 6.0,
+        "frame_name": "frame_000005.jpg"
+    },
+    {
+        "id": 6,
+        "start_time": 6.0,
+        "end_time": 7.0,
+        "frame_name": "frame_000006.jpg"
+    },
+    {
+        "id": 7,
+        "start_time": 7.0,
+        "end_time": 8.0,
+        "frame_name": "frame_000007.jpg"
+    },
+    {
+        "id": 8,
+        "start_time": 8.0,
+        "end_time": 9.0,
+        "frame_name": "frame_000008.jpg"
+    },
+    {
+        "id": 9,
+        "start_time": 9.0,
+        "end_time": 10.0,
+        "frame_name": "frame_000009.jpg"
+    },
+    {
+        "id": 10,
+        "start_time": 10.0,
+        "end_time": 11.0,
+        "frame_name": "frame_000010.jpg"
+    },
+    {
+        "id": 11,
+        "start_time": 11.0,
+        "end_time": 12.0,
+        "frame_name": "frame_000011.jpg"
+    },
+    {
+        "id": 12,
+        "start_time": 12.0,
+        "end_time": 13.0,
+        "frame_name": "frame_000012.jpg"
+    },
+    {
+        "id": 13,
+        "start_time": 13.0,
+        "end_time": 14.0,
+        "frame_name": "frame_000013.jpg"
+    },
+    {
+        "id": 14,
+        "start_time": 14.0,
+        "end_time": 15.0,
+        "frame_name": "frame_000014.jpg"
+    },
+    {
+        "id": 15,
+        "start_time": 15.0,
+        "end_time": 16.0,
+        "frame_name": "frame_000015.jpg"
+    },
+    {
+        "id": 16,
+        "start_time": 16.0,
+        "end_time": 17.0,
+        "frame_name": "frame_000016.jpg"
+    },
+    {
+        "id": 17,
+        "start_time": 17.0,
+        "end_time": 18.0,
+        "frame_name": "frame_000017.jpg"
+    },
+    {
+        "id": 18,
+        "start_time": 18.0,
+        "end_time": 19.0,
+        "frame_name": "frame_000018.jpg"
+    },
+    {
+        "id": 19,
+        "start_time": 19.0,
+        "end_time": 20.0,
+        "frame_name": "frame_000019.jpg"
+    },
+    {
+        "id": 20,
+        "start_time": 20.0,
+        "end_time": 21.0,
+        "frame_name": "frame_000020.jpg"
+    },
+    {
+        "id": 21,
+        "start_time": 21.0,
+        "end_time": 22.0,
+        "frame_name": "frame_000021.jpg"
+    },
+    {
+        "id": 22,
+        "start_time": 22.0,
+        "end_time": 23.0,
+        "frame_name": "frame_000022.jpg"
+    },
+    {
+        "id": 23,
+        "start_time": 23.0,
+        "end_time": 24.0,
+        "frame_name": "frame_000023.jpg"
+    },
+    {
+        "id": 24,
+        "start_time": 24.0,
+        "end_time": 25.0,
+        "frame_name": "frame_000024.jpg"
+    },
+    {
+        "id": 25,
+        "start_time": 25.0,
+        "end_time": 26.0,
+        "frame_name": "frame_000025.jpg"
+    },
+    {
+        "id": 26,
+        "start_time": 26.0,
+        "end_time": 27.0,
+        "frame_name": "frame_000026.jpg"
+    },
+    {
+        "id": 27,
+        "start_time": 27.0,
+        "end_time": 28.0,
+        "frame_name": "frame_000027.jpg"
+    },
+    {
+        "id": 28,
+        "start_time": 28.0,
+        "end_time": 29.0,
+        "frame_name": "frame_000028.jpg"
+    },
+    {
+        "id": 29,
+        "start_time": 29.0,
+        "end_time": 30.0,
+        "frame_name": "frame_000029.jpg"
+    },
+    {
+        "id": 30,
+        "start_time": 30.0,
+        "end_time": 31.0,
+        "frame_name": "frame_000030.jpg"
+    },
+    {
+        "id": 31,
+        "start_time": 31.0,
+        "end_time": 32.0,
+        "frame_name": "frame_000031.jpg"
+    },
+    {
+        "id": 32,
+        "start_time": 32.0,
+        "end_time": 33.0,
+        "frame_name": "frame_000032.jpg"
+    },
+    {
+        "id": 33,
+        "start_time": 33.0,
+        "end_time": 34.0,
+        "frame_name": "frame_000033.jpg"
+    },
+    {
+        "id": 34,
+        "start_time": 34.0,
+        "end_time": 35.0,
+        "frame_name": "frame_000034.jpg"
+    },
+    {
+        "id": 35,
+        "start_time": 35.0,
+        "end_time": 36.0,
+        "frame_name": "frame_000035.jpg"
+    }
+]
