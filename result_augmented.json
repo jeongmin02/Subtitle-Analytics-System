@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "subtitle": "내가 세상에 처음 보는 그런 멘붕을 느꼈다니까요?",
+    "start_time": "00:00:00,000",
+    "end_time": "00:00:05,500",
+    "frames": [
+      "frame_000000.jpg",
+      "frame_000001.jpg",
+      "frame_000002.jpg",
+      "frame_000003.jpg",
+      "frame_000004.jpg",
+      "frame_000005.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 1,
+    "subtitle": "왜 왜 왜 그러냐고",
+    "start_time": "00:00:05,500",
+    "end_time": "00:00:07,120",
+    "frames": [
+      "frame_000005.jpg",
+      "frame_000006.jpg",
+      "frame_000007.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 2,
+    "subtitle": "옥순이가 왜 그러냐고",
+    "start_time": "00:00:07,120",
+    "end_time": "00:00:09,439",
+    "frames": [
+      "frame_000007.jpg",
+      "frame_000008.jpg",
+      "frame_000009.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 3,
+    "subtitle": "자기가 뽑을 때 나를 뽑아준대",
+    "start_time": "00:00:11,279",
+    "end_time": "00:00:13,080",
+    "frames": [
+      "frame_000011.jpg",
+      "frame_000012.jpg",
+      "frame_000013.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 4,
+    "subtitle": "그게 왜 그렇게",
+    "start_time": "00:00:13,080",
+    "end_time": "00:00:14,120",
+    "frames": [
+      "frame_000013.jpg",
+      "frame_000014.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 5,
+    "subtitle": "전혀 예상은 못 했잖아",
+    "start_time": "00:00:14,120",
+    "end_time": "00:00:16,019",
+    "frames": [
+      "frame_000014.jpg",
+      "frame_000015.jpg",
+      "frame_000016.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 6,
+    "subtitle": "왜 싹티가 됐어",
+    "start_time": "00:00:16,019",
+    "end_time": "00:00:17,400",
+    "frames": [
+      "frame_000016.jpg",
+      "frame_000017.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 7,
+    "subtitle": "와 나 진짜 미쳐버릴 것 같네",
+    "start_time": "00:00:17,400",
+    "end_time": "00:00:19,679",
+    "frames": [
+      "frame_000017.jpg",
+      "frame_000018.jpg",
+      "frame_000019.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 8,
+    "subtitle": "그러니까 이게 그러니까",
+    "start_time": "00:00:20,280",
+    "end_time": "00:00:21,359",
+    "frames": [
+      "frame_000020.jpg",
+      "frame_000021.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 9,
+    "subtitle": "좋은 거잖아 지금",
+    "start_time": "00:00:21,359",
+    "end_time": "00:00:22,120",
+    "frames": [
+      "frame_000021.jpg",
+      "frame_000022.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 10,
+    "subtitle": "좋은 건데 표정이 완전 반대가 된 거야",
+    "start_time": "00:00:22,120",
+    "end_time": "00:00:25,900",
+    "frames": [
+      "frame_000022.jpg",
+      "frame_000023.jpg",
+      "frame_000024.jpg",
+      "frame_000025.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 11,
+    "subtitle": "놀라서 충격이 온 게 다 그래",
+    "start_time": "00:00:25,900",
+    "end_time": "00:00:28,120",
+    "frames": [
+      "frame_000025.jpg",
+      "frame_000026.jpg",
+      "frame_000027.jpg",
+      "frame_000028.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 12,
+    "subtitle": "놀랬다, 네가 지금 해가 놀랬다",
+    "start_time": "00:00:28,120",
+    "end_time": "00:00:30,420",
+    "frames": [
+      "frame_000028.jpg",
+      "frame_000029.jpg",
+      "frame_000030.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 13,
+    "subtitle": "이제 하면 어떻게 충격 먹었는데",
+    "start_time": "00:00:30,420",
+    "end_time": "00:00:32,100",
+    "frames": [
+      "frame_000030.jpg",
+      "frame_000031.jpg",
+      "frame_000032.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 14,
+    "subtitle": "지금 그래도 금방 할 수 있지",
+    "start_time": "00:00:32,100",
+    "end_time": "00:00:33,219",
+    "frames": [
+      "frame_000032.jpg",
+      "frame_000033.jpg"
+    ],
+    "is_displayed": false
+  },
+  {
+    "id": 15,
+    "subtitle": "난 처음이잖아요 그런 경험이",
+    "start_time": "00:00:33,219",
+    "end_time": "00:00:35,359",
+    "frames": [
+      "frame_000033.jpg",
+      "frame_000034.jpg",
+      "frame_000035.jpg"
+    ],
+    "is_displayed": false
+  }
+]
