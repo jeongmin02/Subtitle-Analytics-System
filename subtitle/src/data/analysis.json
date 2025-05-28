@@ -2,28 +2,24 @@
     {
         "id": 0,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -39,28 +35,24 @@
       {
         "id": 1,
         "white_subtitle_scores": {
-          "Anger": 0,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "hi"
@@ -72,28 +64,24 @@
       {
         "id": 2,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "hello"
@@ -105,93 +93,82 @@
       {
         "id": 3,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
-          "자고싶어요"
+          "hi"
         ],
         "differences_explained": {
-          "Anger": "4시가 넘음 ㄷ"
+          "Anger": "hi"
         }
       },
       {
         "id": 4,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
-          "으악"        ],
+          "hi"        
+        ],
         "differences_explained": {
-          "Anger": "코스웍 시러"
+          "Anger": "hello"
         }
       },
       {
         "id": 5,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -207,28 +184,24 @@
       {
         "id": 6,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -244,28 +217,24 @@
       {
         "id": 7,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -281,28 +250,24 @@
       {
         "id": 8,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -318,28 +283,24 @@
       {
         "id": 9,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -355,28 +316,24 @@
       {
         "id": 10,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -392,28 +349,24 @@
       {
         "id": 11,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -429,28 +382,24 @@
       {
         "id": 12,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -466,28 +415,24 @@
       {
         "id": 13,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -503,28 +448,24 @@
       {
         "id": 14,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
@@ -540,28 +481,24 @@
       {
         "id": 15,
         "white_subtitle_scores": {
+          "Amusement": 1,
+          "Awe": 2,
+          "Contentment": 1,
+          "Excitement": 2,
           "Anger": 1,
-          "Anticipation": 2,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 3,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 3
+          "Disgust": 2,
+          "Fear": 3,
+          "Sadness": 1
         },
         "designed_subtitle_scores": {
-          "Anger": 2,
-          "Anticipation": 3,
-          "Disgust": 1,
-          "Fear": 2,
-          "Joy": 1,
-          "Sadness": 2,
-          "Surprise": 5,
-          "Trust": 1,
-          "Positive": 1,
-          "Negative": 4
+          "Amusement": 2,
+          "Awe": 3,
+          "Contentment": 1,
+          "Excitement": 2,
+          "Anger": 1,
+          "Disgust": 2,
+          "Fear": 5,
+          "Sadness": 1
         },
         "extra_emotional_effect_from_added_text": [
           "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
