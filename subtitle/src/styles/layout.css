@@ -164,6 +164,7 @@ html, body {
   
   .bar-container {
     display: flex;
+    align-items: center;
     flex-grow: 1;
     height: 8px; /* ⬅️ 기존 12px → 8px */
     background-color: #e0f7fa;
@@ -171,11 +172,18 @@ html, body {
     overflow: hidden;
     position: relative;
     margin-top: 2px;
+    margin: 6px 0;
+    overflow: visible;
   }
   
+  .bar-container.small-bar {
+    height: 8px;
+  }
+
   .bar-segment {
     flex: 1;
     position: relative;
+    overflow: visible;
   }
   
   .bar-fill {
@@ -184,8 +192,8 @@ html, body {
   
   .dot {
     position: absolute;
-    top: -4px; /* ⬅️ 기존 -6px → -4px */
-    width: 8px;  /* ⬅️ 기존 12px → 8px */
+    top: -5px;
+    width: 8px;
     height: 8px;
     border-radius: 50%;
     z-index: 2;
@@ -202,6 +210,7 @@ html, body {
     left: 50%;
     transform: translateX(-50%);
     background-color: black;
+    border: 1.5px solid #000;
   }
   
   .emotion-bar {
@@ -209,4 +218,94 @@ html, body {
     align-items: center;
     margin-bottom: 0.75em; /* ⬅️ 조금 더 조밀하게 */
   }
+  
+  .small-bar {
+    height: 16px; /* 감정 바 높이 조절 */
+  }
+  
+  .dashboard-section {
+    margin-bottom: 1.5em;
+  }
+  
+  .section-title {
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  .text-analysis-list {
+    list-style-type: disc;
+    margin-left: 1em;
+    padding-left: 0.5em;
+  }
+  
+  .no-data {
+    font-style: italic;
+    color: #888;
+  }
+  
+  .bar-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  
+  .bar-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    color: #555;
+    padding: 2px 0 0;
+  }
+  
+  .bar-label {
+    width: 100%;
+    text-align: center;
+    flex: 1;
+  }
+  
+  .legend {
+    display: flex;
+    gap: 1.5em;
+    margin-top: 1em;
+    font-size: 0.8rem;
+    color: #444;
+    align-items: center;
+  }
+  
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+  }
+.bar-number-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0 12px 108px; /* 감정명 여백 고려해서 왼쪽 들여쓰기 */
+  font-size: 0.75rem;
+  color: #444;
+}
+
+.bar-number {
+  width: 14%;
+  text-align: center;
+  font-size: 0.65rem;
+  color: #555;
+  opacity: 0.9;
+}
+
+.legend {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 0.75rem;
+  margin-left: 108px; /* 감정명과 bar 맞춤 */
+  font-size: 0.85rem;
+  align-items: center;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
   

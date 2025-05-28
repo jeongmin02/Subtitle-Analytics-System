@@ -3,8 +3,8 @@ import TopBar from './components/TopBar';
 import Sidebar from './components/Sidebar';
 import VideoPlayer from './components/VideoPlayer';
 import Dashboard from './components/Dashboard';
-import resultData from './data/result.json';
-import analysisData from './data/analysis.json';
+import resultData from './data/result2.json';
+import analysisData from './data/analysis2.json';
 import './styles/layout.css';
 
 const App = () => {
@@ -67,24 +67,14 @@ const App = () => {
     const matched = subtitles.find((s) => {
       const start = parseTime(s.start_time);
       const end = parseTime(s.end_time);
-      const inRange = currentTimeInSeconds >= start && currentTimeInSeconds <= end;
-
-      // ✅ 디버깅 출력
-      console.log(
-        `[⏱ time=${currentTimeInSeconds.toFixed(2)}s]`,
-        `Checking subtitle ID ${s.id} (${start} - ${end})`,
-        `→ match: ${inRange}`
-      );
-
-      return inRange;
+      return currentTimeInSeconds >= start && currentTimeInSeconds < end;
     });
 
     if (matched && matched.id !== currentSubtitleId) {
-      console.log(`✅ Subtitle changed to ID: ${matched.id}`);
-      setCurrentSubtitleId(matched.id);
+      setCurrentSubtitleId(matched.id); // ✅ 이것만 사용
     }
   };
-
+  
   // 🎥 videoUrl 캐싱
   const videoUrl = useMemo(() => {
     if (selectedVideoIndex !== null && videoDataList[selectedVideoIndex]) {
