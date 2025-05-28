@@ -1,0 +1,577 @@
+[
+    {
+        "id": 0,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 1,
+        "white_subtitle_scores": {
+          "Anger": 0,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "hi"
+        ],
+        "differences_explained": {
+          "Anger": "hi"
+        }
+      },
+      {
+        "id": 2,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "hello"
+        ],
+        "differences_explained": {
+          "Anger": "hello"
+        }
+      },
+      {
+        "id": 3,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "자고싶어요"
+        ],
+        "differences_explained": {
+          "Anger": "4시가 넘음 ㄷ"
+        }
+      },
+      {
+        "id": 4,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "으악"        ],
+        "differences_explained": {
+          "Anger": "코스웍 시러"
+        }
+      },
+      {
+        "id": 5,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 6,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 7,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 8,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 9,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 10,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 11,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 12,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 13,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 14,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      },
+      {
+        "id": 15,
+        "white_subtitle_scores": {
+          "Anger": 1,
+          "Anticipation": 2,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 3,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 3
+        },
+        "designed_subtitle_scores": {
+          "Anger": 2,
+          "Anticipation": 3,
+          "Disgust": 1,
+          "Fear": 2,
+          "Joy": 1,
+          "Sadness": 2,
+          "Surprise": 5,
+          "Trust": 1,
+          "Positive": 1,
+          "Negative": 4
+        },
+        "extra_emotional_effect_from_added_text": [
+          "‘N차’ → 반복된 충격 또는 누적된 감정 강조",
+          "🔥 이모지 → 긴장감, 감정 폭발, 극적인 상황 연출"
+        ],
+        "differences_explained": {
+          "Anger": "🔥 이모지 → 분노 또는 격한 반응 유도",
+          "Anticipation": "‘N차’ → 반복적 상황으로 인한 기대 또는 긴장감 조성",
+          "Surprise": "‘N차’, 🔥 이모지 → 과장된 놀람, 극적 효과 강화",
+          "Negative": "‘N차’ → 반복적인 당혹감 강조로 부정적 감정 증폭"
+        }
+      }  
+]
