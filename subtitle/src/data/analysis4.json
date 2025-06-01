@@ -1,0 +1,293 @@
+[
+  {
+    "id": 0,
+    "subtitle": "내가 세상에 처음 보는 그런 멘붕을 느꼈다니까요?",
+    "start_time": "00:00:00,000",
+    "end_time": "00:00:05,500",
+    "frame": "frame_000001.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 5
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 2,
+        "after_score": 5
+      }
+    ],
+    "emotion_analysis": {
+      "대사 자막": {
+        "\"amusement\"": "'멘붕' 부분을 보라색과 굵은 글씨로 시각적으로 강조하여 유쾌함과 코믹함을 극대화함. 시청자에게 재미를 더 강하게 전달함.",
+        "\"excitement\"": "글씨 크기와 색상, 느낌표와 의문부호의 조합으로 발화의 놀람과 흥분이 시각적으로 강조되어, 실제 감정 전달력이 크게 높아짐."
+      }
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 5},\n  {\"emotion\": \"excitement\", \"before_score\": 2, \"after_score\": 5}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 자막:\n  \"amusement\": '멘붕' 부분을 보라색과 굵은 글씨로 시각적으로 강조하여 유쾌함과 코믹함을 극대화함. 시청자에게 재미를 더 강하게 전달함.\n  \"excitement\": 글씨 크기와 색상, 느낌표와 의문부호의 조합으로 발화의 놀람과 흥분이 시각적으로 강조되어, 실제 감정 전달력이 크게 높아짐."
+  },
+  {
+    "id": 1,
+    "subtitle": "왜 왜 왜 그러냐고, 옥순이가 왜 그러냐고",
+    "start_time": "00:00:05,500",
+    "end_time": "00:00:11,279",
+    "frame": "frame_000006.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 4
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 3,
+        "after_score": 6
+      },
+      {
+        "emotion": "anger",
+        "before_score": 2,
+        "after_score": 5
+      }
+    ],
+    "emotion_analysis": {
+      "대사 자막": {
+        "\"amusement\"": "자막의 크기와 반복적인 \"왜!?\" 강조, 강렬한 붉은색, 불꽃 효과로 상황의 과장된 느낌을 주어 유쾌함이 상승함.",
+        "\"excitement\"": "큰 폰트와 붉은색, 불꽃 그래픽 효과가 상황의 긴장감과 역동성을 강하게 부각시켜 시청자의 몰입감, 흥분도를 높임.",
+        "\"anger\"": "붉은 계열 색상과 불꽃 효과가 등장인물의 분노감을 시각적으로 강조하여 감정 전달력이 크게 강화됨."
+      }
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 4},\n  {\"emotion\": \"excitement\", \"before_score\": 3, \"after_score\": 6},\n  {\"emotion\": \"anger\", \"before_score\": 2, \"after_score\": 5}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 자막:\n  \"amusement\": 자막의 크기와 반복적인 \"왜!?\" 강조, 강렬한 붉은색, 불꽃 효과로 상황의 과장된 느낌을 주어 유쾌함이 상승함.\n  \"excitement\": 큰 폰트와 붉은색, 불꽃 그래픽 효과가 상황의 긴장감과 역동성을 강하게 부각시켜 시청자의 몰입감, 흥분도를 높임.\n  \"anger\": 붉은 계열 색상과 불꽃 효과가 등장인물의 분노감을 시각적으로 강조하여 감정 전달력이 크게 강화됨."
+  },
+  {
+    "id": 2,
+    "subtitle": "자기가 뽑을 때 나를 뽑아준대",
+    "start_time": "00:00:11,279",
+    "end_time": "00:00:13,080",
+    "frame": "frame_000012.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 5
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 2,
+        "after_score": 4
+      },
+      {
+        "emotion": "contentment",
+        "before_score": 3,
+        "after_score": 5
+      }
+    ],
+    "emotion_analysis": {
+      "대사 자막": {
+        "\"amusement\"": "노란색, 굵은 폰트, 커진 크기, 흔들림 효과 등으로 대사의 재치와 상황의 유쾌함이 더욱 강조되어 시청자로 하여금 재미와 웃음을 유발함",
+        "\"excitement\"": "컬러와 크기 변화, 강조 효과가 발화의 기대감과 긴장감을 시각적으로 증폭시킴",
+        "\"contentment\"": "부드러운 곡선 글씨와 포근한 컬러가 편안하고 긍정적인 분위기를 더욱 높여줌"
+      }
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 5},\n  {\"emotion\": \"excitement\", \"before_score\": 2, \"after_score\": 4},\n  {\"emotion\": \"contentment\", \"before_score\": 3, \"after_score\": 5}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 자막:\n  \"amusement\": 노란색, 굵은 폰트, 커진 크기, 흔들림 효과 등으로 대사의 재치와 상황의 유쾌함이 더욱 강조되어 시청자로 하여금 재미와 웃음을 유발함\n  \"excitement\": 컬러와 크기 변화, 강조 효과가 발화의 기대감과 긴장감을 시각적으로 증폭시킴\n  \"contentment\": 부드러운 곡선 글씨와 포근한 컬러가 편안하고 긍정적인 분위기를 더욱 높여줌"
+  },
+  {
+    "id": 3,
+    "subtitle": "그게 왜 그렇게, 전혀 예상은 못 했잖아, 왜 싹티가 됐어",
+    "start_time": "00:00:13,080",
+    "end_time": "00:00:17,400",
+    "frame": "frame_000016.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 4
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 2,
+        "after_score": 5
+      },
+      {
+        "emotion": "anger",
+        "before_score": 1,
+        "after_score": 5
+      }
+    ],
+    "emotion_analysis": {
+      "대사 자막": {
+        "\"amusement\"": "불꽃 이펙트와 굵은 붉은 글씨가 대사의 유머러스한 놀람과 당혹스러움을 강조함.",
+        "\"excitement\"": "강렬한 색상과 크기, 불꽃 효과가 듣는 사람의 호기심과 긴장감을 높임.",
+        "\"anger\"": "불꽃 효과와 굵고 각진 폰트가 순간적인 분노, 항의의 느낌을 강렬하게 전달함."
+      }
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 4},\n  {\"emotion\": \"excitement\", \"before_score\": 2, \"after_score\": 5},\n  {\"emotion\": \"anger\", \"before_score\": 1, \"after_score\": 5}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 자막:\n  \"amusement\": 불꽃 이펙트와 굵은 붉은 글씨가 대사의 유머러스한 놀람과 당혹스러움을 강조함.\n  \"excitement\": 강렬한 색상과 크기, 불꽃 효과가 듣는 사람의 호기심과 긴장감을 높임.\n  \"anger\": 불꽃 효과와 굵고 각진 폰트가 순간적인 분노, 항의의 느낌을 강렬하게 전달함."
+  },
+  {
+    "id": 4,
+    "subtitle": "와 나 진짜 미쳐버릴 것 같네",
+    "start_time": "00:00:17,400",
+    "end_time": "00:00:20,280",
+    "frame": "frame_000020.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 5
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 3,
+        "after_score": 6
+      },
+      {
+        "emotion": "anger",
+        "before_score": 2,
+        "after_score": 5
+      }
+    ],
+    "emotion_analysis": {
+      "대사 자막": {
+        "\"amusement\"": "노란색 굵은 폰트와 불꽃 이모티콘이 추가되어 대사의 과장된 농담/유머 느낌을 효과적으로 전달함.",
+        "\"excitement\"": "자막의 크기와 강조된 색상, 불꽃 효과로 인해 말의 흥분감과 긴장감이 증폭됨.",
+        "\"anger\"": "불꽃 이펙트가 분노나 짜증의 감정을 시각적으로 더 강하게 강조함."
+      }
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 5},\n  {\"emotion\": \"excitement\", \"before_score\": 3, \"after_score\": 6},\n  {\"emotion\": \"anger\", \"before_score\": 2, \"after_score\": 5}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 자막:\n  \"amusement\": 노란색 굵은 폰트와 불꽃 이모티콘이 추가되어 대사의 과장된 농담/유머 느낌을 효과적으로 전달함.\n  \"excitement\": 자막의 크기와 강조된 색상, 불꽃 효과로 인해 말의 흥분감과 긴장감이 증폭됨.\n  \"anger\": 불꽃 이펙트가 분노나 짜증의 감정을 시각적으로 더 강하게 강조함."
+  },
+  {
+    "id": 5,
+    "subtitle": "그러니까 이게 그러니까, 좋은 거잖아 지금, 좋은 건데 표정이 완전 반대가 된 거야",
+    "start_time": "00:00:20,280",
+    "end_time": "00:00:25,900",
+    "frame": "frame_000023.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 4
+      },
+      {
+        "emotion": "contentment",
+        "before_score": 3,
+        "after_score": 5
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 2,
+        "after_score": 3
+      }
+    ],
+    "emotion_analysis": {
+      "대사 외 자막": [
+        "화이트-블랙 테두리에 일부 컬러(보라색) 포인트가 들어가 강조됨. 핵심 단어 “영식”을 컬러로 처리해 캐릭터성을 부각하여 장면의 소극적인 유머와 친근함을 증폭시킴. 볼드 처리와 큰 폰트 크기는 시청자 집중도를 높여, 전체적으로 amusement와 contentment 상승에 기여함."
+      ]
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 4},\n  {\"emotion\": \"contentment\", \"before_score\": 3, \"after_score\": 5},\n  {\"emotion\": \"excitement\", \"before_score\": 2, \"after_score\": 3}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 외 자막:\n  - 화이트-블랙 테두리에 일부 컬러(보라색) 포인트가 들어가 강조됨. 핵심 단어 “영식”을 컬러로 처리해 캐릭터성을 부각하여 장면의 소극적인 유머와 친근함을 증폭시킴. 볼드 처리와 큰 폰트 크기는 시청자 집중도를 높여, 전체적으로 amusement와 contentment 상승에 기여함."
+  },
+  {
+    "id": 6,
+    "subtitle": "놀라서 충격이 온 게 다 그래",
+    "start_time": "00:00:25,900",
+    "end_time": "00:00:28,120",
+    "frame": "frame_000027.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 5
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 2,
+        "after_score": 4
+      },
+      {
+        "emotion": "awe",
+        "before_score": 1,
+        "after_score": 3
+      }
+    ],
+    "emotion_analysis": {
+      "대사 외 자막": [
+        "보라색 테두리와 대비되는 흰색 폰트, 크고 굵은 글씨가 사용되어 시선을 끌며, 경쾌함과 유쾌함을 전달함. 효과적인 강조로 인해 당황스러운 분위기나 재미 요소가 더 부각되어 amusement, excitement, awe 감정이 모두 상승함.",
+        "이름에 \"(?)\" 표기를 덧붙여 의문과 장난스러운 느낌을 추가, 상황에 대한 재미와 호기심을 자극함."
+      ]
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 5},\n  {\"emotion\": \"excitement\", \"before_score\": 2, \"after_score\": 4},\n  {\"emotion\": \"awe\", \"before_score\": 1, \"after_score\": 3}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 외 자막:\n  - 보라색 테두리와 대비되는 흰색 폰트, 크고 굵은 글씨가 사용되어 시선을 끌며, 경쾌함과 유쾌함을 전달함. 효과적인 강조로 인해 당황스러운 분위기나 재미 요소가 더 부각되어 amusement, excitement, awe 감정이 모두 상승함.  \n  - 이름에 \"(?)\" 표기를 덧붙여 의문과 장난스러운 느낌을 추가, 상황에 대한 재미와 호기심을 자극함."
+  },
+  {
+    "id": 7,
+    "subtitle": "놀랬다, 네가 지금 해가 놀랬다, 이제 하면 어떻게 충격 먹었는데, 지금 그래도 금방 할 수 있지",
+    "start_time": "00:00:28,120",
+    "end_time": "00:00:33,219",
+    "frame": "frame_000032.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 2,
+        "after_score": 4
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 2,
+        "after_score": 5
+      },
+      {
+        "emotion": "awe",
+        "before_score": 2,
+        "after_score": 4
+      },
+      {
+        "emotion": "contentment",
+        "before_score": 3,
+        "after_score": 4
+      },
+      {
+        "emotion": "sadness",
+        "before_score": 2,
+        "after_score": 3
+      }
+    ],
+    "emotion_analysis": {
+      "대사 자막": {
+        "\"amusement\"": "굵고 진한 폰트와 강렬한 분홍색 강조가 대사의 유쾌함을 극대화시켜 시청자에게 재미와 웃음을 더 크게 전달함",
+        "\"excitement\"": "크고 강조된 글씨, 이중 물음표와 색상 대비가 순간의 놀라움과 긴장된 분위기를 강하게 전달함",
+        "\"awe\"": "강조와 강렬한 색감이 예상치 못한 대화의 충격감을 시각적으로 뚜렷하게 표현함",
+        "\"contentment\"": "전체 자막이 화면의 소통과 몰입을 도와 편안한 시청 경험 제공",
+        "\"sadness\"": "\"충격받았는데...\"의 점선 효과와 상대적으로 차분한 폰트가 순간적인 당황·실망의 감정을 부각함"
+      }
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 2, \"after_score\": 4},\n  {\"emotion\": \"excitement\", \"before_score\": 2, \"after_score\": 5},\n  {\"emotion\": \"awe\", \"before_score\": 2, \"after_score\": 4},\n  {\"emotion\": \"contentment\", \"before_score\": 3, \"after_score\": 4},\n  {\"emotion\": \"sadness\", \"before_score\": 2, \"after_score\": 3}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 자막:\n  \"amusement\": 굵고 진한 폰트와 강렬한 분홍색 강조가 대사의 유쾌함을 극대화시켜 시청자에게 재미와 웃음을 더 크게 전달함\n  \"excitement\": 크고 강조된 글씨, 이중 물음표와 색상 대비가 순간의 놀라움과 긴장된 분위기를 강하게 전달함\n  \"awe\": 강조와 강렬한 색감이 예상치 못한 대화의 충격감을 시각적으로 뚜렷하게 표현함\n  \"contentment\": 전체 자막이 화면의 소통과 몰입을 도와 편안한 시청 경험 제공\n  \"sadness\": \"충격받았는데...\"의 점선 효과와 상대적으로 차분한 폰트가 순간적인 당황·실망의 감정을 부각함"
+  },
+  {
+    "id": 8,
+    "subtitle": "난 처음이잖아요 그런 경험이",
+    "start_time": "00:00:33,219",
+    "end_time": "00:00:35,359",
+    "frame": "frame_000033.jpg",
+    "emotion_scores": [
+      {
+        "emotion": "amusement",
+        "before_score": 3,
+        "after_score": 5
+      },
+      {
+        "emotion": "excitement",
+        "before_score": 3,
+        "after_score": 6
+      },
+      {
+        "emotion": "anger",
+        "before_score": 2,
+        "after_score": 4
+      }
+    ],
+    "emotion_analysis": {
+      "대사 자막": {
+        "\"amusement\"": "불꽃 효과와 굵은 폰트, 붉은색 강조가 발화의 과장된 감정을 유쾌하게 전달해 웃음을 유발함",
+        "\"excitement\"": "큰 글씨와 붉은색, 불꽃 그래픽이 발언자의 놀란 감정과 에너지를 극대화해 활기를 줌",
+        "\"anger\"": "빨간색 불꽃 그래픽이 강한 감정(화남, 당황 등)에 중점을 둬 시청자의 감정적 몰입도를 높임"
+      }
+    },
+    "gpt_raw_output": "### 1. 감정 점수 (JSON)\n[\n  {\"emotion\": \"amusement\", \"before_score\": 3, \"after_score\": 5},\n  {\"emotion\": \"excitement\", \"before_score\": 3, \"after_score\": 6},\n  {\"emotion\": \"anger\", \"before_score\": 2, \"after_score\": 4}\n]\n\n### 2. 자막의 디자인이 감정에 미친 영향 & 근거 분석\n\n대사 자막:\n  \"amusement\": 불꽃 효과와 굵은 폰트, 붉은색 강조가 발화의 과장된 감정을 유쾌하게 전달해 웃음을 유발함\n  \"excitement\": 큰 글씨와 붉은색, 불꽃 그래픽이 발언자의 놀란 감정과 에너지를 극대화해 활기를 줌\n  \"anger\": 빨간색 불꽃 그래픽이 강한 감정(화남, 당황 등)에 중점을 둬 시청자의 감정적 몰입도를 높임"
+  }
+]

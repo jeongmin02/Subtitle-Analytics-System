@@ -1,4 +1,4 @@
-const VideoPlayer = ({ videoUrl, onTimeUpdate }) => {
+const VideoPlayer = ({ videoUrl, onTimeUpdate, highlight }) => {
   const handleTimeUpdate = (e) => {
     const currentTime = e.target.currentTime;
     if (onTimeUpdate) {
@@ -10,12 +10,16 @@ const VideoPlayer = ({ videoUrl, onTimeUpdate }) => {
     <div className="video-player board">
       <h2 className="section-title">🎬 Video Player</h2>
       {videoUrl ? (
-        <video
-          src={videoUrl}
-          controls
-          width="100%"
-          onTimeUpdate={handleTimeUpdate}
-        />
+        <div className="video-wrapper">
+          <video
+            src={videoUrl}
+            controls
+            width="100%"
+            onTimeUpdate={handleTimeUpdate}
+            className={`video-element ${highlight ? 'highlight-border' : ''}`}
+          />
+        </div>
+      
       ) : (
         <p>No video selected</p>
       )}

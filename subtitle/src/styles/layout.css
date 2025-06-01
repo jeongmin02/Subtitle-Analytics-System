@@ -1,4 +1,3 @@
-/* 전체 페이지 설정 */
 html, body {
     margin: 0;
     padding: 0;
@@ -14,7 +13,6 @@ html, body {
     flex-direction: column;
   }
   
-  /* 상단 바 */
   .top-bar {
     height: 60px;
     background-color: white;
@@ -27,15 +25,13 @@ html, body {
     border-bottom: 1px solid #ddd;
   }
   
-  /* 본문 레이아웃: 상단 바 제외한 나머지 전체 */
   .main-layout {
-    flex: 1; /* 나머지 높이 모두 채움 */
+    flex: 1;
     display: flex;
     width: 100vw;
-    height: calc(100vh - 60px); /* 정확하게 높이 계산 */
+    height: calc(100vh - 60px);
   }
   
-  /* 공통 보드 스타일 */
   .board {
     border: 2px solid #b3e5fc;
     box-sizing: border-box;
@@ -44,7 +40,6 @@ html, body {
     height: 100%;
   }
   
-  /* 비율 지정 */
   .sidebar {
     flex: 1;
     min-width: 0;
@@ -166,7 +161,7 @@ html, body {
     display: flex;
     align-items: center;
     flex-grow: 1;
-    height: 8px; /* ⬅️ 기존 12px → 8px */
+    height: 8px;
     background-color: #e0f7fa;
     border-radius: 6px;
     overflow: hidden;
@@ -216,11 +211,11 @@ html, body {
   .emotion-bar {
     display: flex;
     align-items: center;
-    margin-bottom: 0.75em; /* ⬅️ 조금 더 조밀하게 */
+    margin-bottom: 0.75em;
   }
   
   .small-bar {
-    height: 16px; /* 감정 바 높이 조절 */
+    height: 16px;
   }
   
   .dashboard-section {
@@ -281,7 +276,7 @@ html, body {
 .bar-number-row {
   display: flex;
   justify-content: space-between;
-  padding: 4px 0 12px 108px; /* 감정명 여백 고려해서 왼쪽 들여쓰기 */
+  padding: 4px 0 12px 108px;
   font-size: 0.75rem;
   color: #444;
 }
@@ -298,7 +293,7 @@ html, body {
   display: flex;
   gap: 1.5rem;
   margin-top: 0.75rem;
-  margin-left: 108px; /* 감정명과 bar 맞춤 */
+  margin-left: 108px;
   font-size: 0.85rem;
   align-items: center;
 }
@@ -308,4 +303,29 @@ html, body {
   align-items: center;
   gap: 0.4rem;
 }
-  
+
+.video-wrapper {
+  box-sizing: border-box;
+  padding: 0;
+  max-width: 100%;
+}
+
+/* .highlight-border {
+  box-sizing: border-box;
+  border: 5px solid yellow;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(255, 255, 0, 0.6);
+} */
+
+.video-element {
+  width: 100%;
+  box-sizing: border-box;
+  border: 5px solid transparent; /* ✅ 기본 공간 확보 */
+  border-radius: 12px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.highlight-border {
+  border-color: yellow; /* ✅ 강조 시 노란색으로만 전환 */
+  box-shadow: 0 0 10px rgba(255, 255, 0, 0.6);
+}

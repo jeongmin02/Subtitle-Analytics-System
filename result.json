@@ -4,7 +4,7 @@
     "subtitle": "내가 세상에 처음 보는 그런 멘붕을 느꼈다니까요?",
     "start_time": "00:00:00,000",
     "end_time": "00:00:05,500",
-    "frame" : "frame_000000.jpg"
+    "frame" : "frame_000001.jpg"
   },
   {
     "id": 1,
@@ -17,13 +17,13 @@
     "id": 2,
     "subtitle": "자기가 뽑을 때 나를 뽑아준대",
     "start_time": "00:00:11,279",
-    "end_time": "00:00:13,080",
+    "end_time": "00:00:15,080",
     "frame" : "frame_000012.jpg"
   },
   {
     "id": 3,
     "subtitle": "그게 왜 그렇게, 전혀 예상은 못 했잖아, 왜 싹티가 됐어",
-    "start_time": "00:00:13,080",
+    "start_time": "00:00:15,080",
     "end_time": "00:00:17,400",
     "frame" : "frame_000016.jpg"
   },

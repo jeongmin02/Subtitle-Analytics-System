@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar';
 import VideoPlayer from './components/VideoPlayer';
 import Dashboard from './components/Dashboard';
 import resultData from './data/result2.json';
-import analysisData from './data/analysis2.json';
+import analysisData from './data/analysis6_with_scores.json';
 import './styles/layout.css';
 
 const App = () => {
@@ -15,7 +15,6 @@ const App = () => {
   const [subtitles, setSubtitles] = useState(resultData);
   const [analysis, setAnalysis] = useState(analysisData);
 
-  // 🎞 썸네일 생성
   const generateThumbnail = (videoFile) => {
     return new Promise((resolve) => {
       const video = document.createElement('video');
@@ -35,7 +34,6 @@ const App = () => {
     });
   };
 
-  // 📁 파일 업로드 핸들링
   const handleUpload = async (files) => {
     const newFiles = Array.from(files);
     const newData = await Promise.all(
@@ -50,7 +48,6 @@ const App = () => {
     }
   };
 
-  // ⏱ 시간 문자열 → 초 단위로 변환
   const parseTime = (str) => {
     const [hh, mm, ssMs] = str.split(':');
     const [ss, ms] = ssMs.split(',');
@@ -62,7 +59,6 @@ const App = () => {
     );
   };
 
-  // 🎯 재생 중인 시간에 따라 자막 매칭
   const handleTimeUpdate = (currentTimeInSeconds) => {
     const matched = subtitles.find((s) => {
       const start = parseTime(s.start_time);
@@ -71,11 +67,10 @@ const App = () => {
     });
 
     if (matched && matched.id !== currentSubtitleId) {
-      setCurrentSubtitleId(matched.id); // ✅ 이것만 사용
+      setCurrentSubtitleId(matched.id);
     }
   };
-  
-  // 🎥 videoUrl 캐싱
+
   const videoUrl = useMemo(() => {
     if (selectedVideoIndex !== null && videoDataList[selectedVideoIndex]) {
       return URL.createObjectURL(videoDataList[selectedVideoIndex].file);
@@ -84,6 +79,9 @@ const App = () => {
   }, [selectedVideoIndex, videoDataList]);
 
   const currentAnalysis = analysis.find((a) => a.id === currentSubtitleId);
+
+  const highlightVideo =
+    currentAnalysis?.composite_scores?.some((score) => score.composite_score >= 5.0) ?? false;
 
   return (
     <>
@@ -98,6 +96,7 @@ const App = () => {
         <VideoPlayer
           videoUrl={videoUrl}
           onTimeUpdate={handleTimeUpdate}
+          highlight={highlightVideo}
         />
         <Dashboard analysis={currentAnalysis} />
       </div>
