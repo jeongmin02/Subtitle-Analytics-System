@@ -27,7 +27,14 @@ const Dashboard = ({ analysis }) => {
     <div className="dashboard board">
       <h2 className="section-title">📊 Analysis Dashboard</h2>
 
-      {/* 🎯 감정 점수 변화 시각화 - 맨 위로 이동 */}
+      {/* 🎯 현재 자막 표시 */}
+      {analysis.subtitle && (
+        <div className="subtitle-display">
+          <strong>현재 분석 중인 자막:</strong> {analysis.image_subtitle}
+        </div>
+      )}
+
+      {/* 🎯 감정 점수 변화 시각화 */}
       <section className="dashboard-section">
         <h4 className="section-title">🎯 자막 디자인에 의한 감정 변화</h4>
         {emotionScores.length > 0 ? (

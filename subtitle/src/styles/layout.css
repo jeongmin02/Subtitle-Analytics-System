@@ -337,3 +337,11 @@ html, body {
   margin-right: 0.75rem;
   line-height: 1.2;
 }
+
+.dashboard .subtitle-display {
+  background-color: lightgray;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
