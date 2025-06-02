@@ -326,6 +326,14 @@ html, body {
 }
 
 .highlight-border {
-  border-color: yellow; /* ✅ 강조 시 노란색으로만 전환 */
+  border-color: yellow;
   box-shadow: 0 0 10px rgba(255, 255, 0, 0.6);
+}
+
+.emotion-label {
+  width: 100px;
+  font-weight: 500;
+  text-align: right;
+  margin-right: 0.75rem;
+  line-height: 1.2;
 }

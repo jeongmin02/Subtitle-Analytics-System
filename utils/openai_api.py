@@ -21,7 +21,7 @@ def query_gpt4o(image_path: str, subtitle: str):
     base64_image = encode_image_to_base64(image_path)
 
     prompt = f"""
-다음 자막을 보고 대사 자막인지, 대사 외 자막인지 판단하고, 각 경우에 대해 자막 디자인(폰트, 색상, 크기, 강조 등)이 시청자 감정에 어떤 영향을 주는지 분석해줘. 감정 점수는 amusement, awe, contentment, excitement, anger, disgust, fear, sadness 8개에 대해 before_score와 after_score로 1-7 사이 숫자를 JSON 배열로 출력하고, 그 외는 아래 형식을 따르되 간결하게 분석해줘.
+다음 자막을 보고 대사 자막인지, 대사 외 자막인지 판단해 주세요. (대사 외 자막에는 출연자가 직접 하지 않은 말, 기호, 효과음 표현 등이 포함됩니다.) 자막의 디자인 요소(폰트, 색상, 크기, 강조 등)가 시청자의 감정에 어떤 영향을 미쳤는지 분석해 주세요. 디자인이 없는 기본 자막은 before_score로 간주하며, 느낌표, 물음표 등의 기호가 없으며, 아무 디자인이 없는 흰색 글씨로 표현됩니다. 이미지에서처럼 시각적으로 강조된 디자인 자막은 after_score로 간주됩니다. 각 감정(amusement, awe, contentment, excitement, anger, disgust, fear, sadness)에 대해 before_score와 after_score를 1~7 범위의 정수로 JSON 배열 형식으로 작성해 주세요. 그 외는 아래 형식을 따르되 간결하게 분석해주세요.
 
 출력 형식:
 ### 1. 감정 점수 (JSON)
