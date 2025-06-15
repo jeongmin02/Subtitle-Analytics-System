@@ -20,3 +20,6 @@ npm run dev
 #### Testing with Sample Video
 For testing purposes, you can use the provided sample video:
 - File Location: Subtitle-Analytics-System/sample.mp4
+
+### Support
+For issues, questions, or feature requests, please create an issue in the GitHub repository.
